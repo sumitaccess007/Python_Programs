@@ -4,4 +4,4 @@ Python Programs
 2. Number System
 3. About Python
 
-<img src="https://github.com/sumitaccess007/winter-of-contributing/blob/Issue_1251_Integers/Java/Primitive%20Data%20Type/Assets/IntegerDataTypes.png" width="100" height="200" />
+<img src="https://github.com/sumitaccess007/winter-of-contributing/blob/Issue_1251_Integers/Java/Primitive%20Data%20Type/Assets/IntegerDataTypes.png" width="200" height="200" />
